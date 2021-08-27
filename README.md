@@ -12,9 +12,9 @@ C      | Capture
 C      | Configure
 C      | Control
 D      | Delete
-D      | Do
 D      | Delegate
 D      | Defer
+D      | Do
 ```
 
 ### 1. BIRME: The Essential Qualities
@@ -24,24 +24,34 @@ D      | Defer
     - task control
 
 ### 2. Capture
-* time: throughout-the-day
+#### 2.1. Tools
 * tool #1: **Google tasks on Blackberry KEY2** and dedicated Captures bucket on the home screensync
     ![](./assets/img003051.png)
 * tool #2: [Full Screen for Google Tasks][#2]
 * tool #3: **Gmail** 
-* all tasks are captured immediatelly as per GTD
+
+#### 2.2. Rules
+* time: throughout-the-day
+* aim: all tasks are captured immediatelly as per GTD
+
+#### 2.3. Instructions
 * thorough the day you have the bucket nearby and you captures todos and don't jump into execution
 * categorization starts already here by prefixing the task with the category (dimension) shortcut
     - prefixes are organized alphabetically to remember them, to know by heart
     - my list is A-I: #ALX, #BB, #CAR, #DD, #EXP, #FF, #GRL, #HRM, #CHR, #I
     - a smartphone allows to have a shortcut for each of them (type *ee* → `#EXP` + type a capture_item)
 
-### 3. 2D Configure 
-* time: 15-minutes-morning-ritual
-* aim: 3x0: past0 + inbox0 + capture0
+### 3. Configure 
+#### 3.1. Tools
 * tool #1: **Google Calendar**
 * tool #2: **Gmail**
 * tool #3: [Full Screen for Google Tasks][#2]
+
+#### 3.2. Rules
+* time: 15-minutes-morning-ritual
+* aim: 3x0: past0 + inbox0 + capture0
+
+#### 3.3. Instructions
 * open Calendar and release/cross/move _leftovers_ from yesterday/previous day
 * open Inbox and for emails
     - _either_ release (delete/unsubscribe)
@@ -59,23 +69,28 @@ D      | Defer
     - deadline (date)
     - _no execution, no consumption_
 
-### 4. 3D Control
+### 4. Control
+#### 4.1. Tools
 * tool#1: [Desktop app for Google Tasks][#1]
     - choose rediculous custom backgrounds and work at commiting them to memory (think of it in-day)
     - I am giving them **alphabetical names** to keep them in my head (A-I)
 * tool#2: **Google Calendar**
-* time: 30 minutes
-* aim: the day is _planned == planted_
+    - use week view to see the progress of the week
+    - there is a feeling of teritorial conquest with this view, leaving no open tasks behind
+    - have week plan
 
+![](./assets/img003068.jpg)
+
+#### 4.2. Rules
+* time: 30 morning minutes + throughout the day
+* aim #1: the day is _planned == planted_ 
+* aim #2: the day ends with 0 with the help of four Ds
+
+#### 4.3. Instructions
 1. go through categories in alphabetical order
 2. select ones for **today**
 3. either *do* or *defer* or *delegate*
 4. assign a time to the deferred ones
-
-#### 4.1. Google Calendar
-* use week view to see the progress of the week
-* there is a feeling of teritorial conquest with this view, leaving no open tasks behind
-* have week plan
 
 ### 5. Done
 * Done for the day
