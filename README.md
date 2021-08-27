@@ -18,7 +18,7 @@ D      | Defer
 ```
 
 ### 1. BIRME: The Essential Qualities
-* [The Qualities of Planning](..\productivity\2021-03-18-The-Qualities-of-Planning.md)
+* [The Qualities of Planning](./assets/The-Qualities-of-Planning.md)
 * I dedicate 2x 15-minute rounds with Toggl and block this ~40 minutes daily to the
     - task configuration
     - task control
@@ -26,7 +26,7 @@ D      | Defer
 ### 2. Capture
 * time: throughout-the-day
 * tool #1: **Google tasks on Blackberry KEY2** and dedicated Captures bucket on the home screensync
-    ![](../assets/img003051.png)
+    ![](./assets/img003051.png)
 * tool #2: [Full Screen for Google Tasks][#2]
 * tool #3: **Gmail** 
 * all tasks are captured immediatelly as per GTD
