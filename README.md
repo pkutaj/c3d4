@@ -53,15 +53,25 @@ D      | Do
 
 #### 3.3. Instructions
 * open Calendar and release/cross/move _leftovers_ from yesterday/previous day
+
+![](./assets/img003068.jpg)
+
 * open Inbox and for emails
     - _either_ release (delete/unsubscribe)
     - _or_ convert into tasks → snooze to make it disappear from the inbox
+    - mercilessly unsubscribe from any marketing crap#
+
+![](./assets/img003070.jpg)
+
 * most of the day should already be _explicitly_ present in your calendar as a series *const_blocks*
 * reserved blocks correspond with the selected _identity_ 
 * step #1: triage them all
     - release/remove as many insignificant captures as possible (KonMari)
     - assign date/prio and move them to _categories_
     - keep quickies for 1D
+
+![](./assets/img003073.jpg)
+
 * **DO** *quickies* (< 120 seconds) NOW; the overhead is more expensive - aka "2 minute rule" (GTD)
 * for those to keep, assign
     - rank (priority)
@@ -79,7 +89,6 @@ D      | Do
     - there is a feeling of teritorial conquest with this view, leaving no open tasks behind
     - have week plan
 
-![](./assets/img003068.jpg)
 
 #### 4.2. Rules
 * time: 30 morning minutes + throughout the day
