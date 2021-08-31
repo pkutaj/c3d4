@@ -1,7 +1,9 @@
 # c3d4
-[![forthebadge](https://forthebadge.com/images/badges/just-plain-nasty.svg)](https://forthebadge.com)
+![NO_FCKNG](https://img.shields.io/badge/NO_FCKNG-FLOW-red?labelColor=black&style=for-the-badge)
 
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+![Google Calendar Badge](https://img.shields.io/badge/Google%20Calendar-4285F4?logo=googlecalendar&logoColor=fff&style=flat)
+![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)
 
 The concern is an ongoing documention of useful planning tactics
 
