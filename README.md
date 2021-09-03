@@ -1,5 +1,5 @@
 # c3d4
-![NO_FCKNG](https://img.shields.io/badge/NO_FCKNG-FLOW-red?labelColor=black&style=for-the-badge)
+![AGAINST](https://img.shields.io/badge/AGAINST-BERSERK-red?labelColor=black&style=for-the-badge)
 
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Google Calendar Badge](https://img.shields.io/badge/Google%20Calendar-4285F4?logo=googlecalendar&logoColor=fff&style=flat)
