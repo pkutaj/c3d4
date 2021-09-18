@@ -7,7 +7,6 @@
 
 The concern is an ongoing documention of useful planning tactics
 
-```
 LETTER | MEANING
 -------|----------
 C      | Capture
@@ -17,7 +16,6 @@ D      | Delete
 D      | Delegate
 D      | Defer
 D      | Do
-```
 
 * Tactical goal is to achieve Four Zeros:
 
