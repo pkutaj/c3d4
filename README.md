@@ -19,6 +19,25 @@ D      | Defer
 D      | Do
 ```
 
+* Tactical goal is to achieve Four Zeros:
+
+| COLLECTOR | DIMENSION |
+|-----------|-----------|
+| capture0  | past0     |
+| inbox0    | today0    |
+
+### Ingredients
+* [Taskboard - Desktop app for Google Tasks][#1]
+* [Full Screen for Google Tasks][#2]
+* Gmail
+* Google Calendar
+* Google Tasks
+* Smartphone — ideally Blackberry Key2
+* Desktop Computer
+* 6$ / months
+* 15 minutes block / day  
+
+
 ### 1. BIRME: The Essential Qualities
 * [The Qualities of Planning](./assets/The-Qualities-of-Planning.md)
 * I dedicate 2x 15-minute rounds with Toggl and block this ~40 minutes daily to the
@@ -26,9 +45,10 @@ D      | Do
     - task control
 
 ### 2. Capture
-#### 2.1. Tools
+#### 2.1. Tools: Collectors
 * tool #1: **Google tasks on Blackberry KEY2** and dedicated Captures bucket on the home screensync
-    ![](./assets/img003051.png)
+    ![](./assets/i
+    mg003051.png)
 * tool #2: [Full Screen for Google Tasks][#2]
 * tool #3: **Gmail** 
 
@@ -51,10 +71,12 @@ D      | Do
 
 #### 3.2. Rules
 * time: 15-minutes-morning-ritual
-* aim: 3x0: past0 + inbox0 + capture0
+* aim: 3x0: **past0** + **inbox0** + **capture0**
 
 #### 3.3. Instructions
-* open Calendar and release/cross/move _leftovers_ from yesterday/previous day
+* to get to past0: open Calendar and delete/defer _leftovers_ from yesterday/previous days to present/future
+    - of course, you should find nothing in there in the first place
+    - but you need to maintain the clean slate
 
 ![](./assets/img003068.jpg)
 
@@ -82,10 +104,11 @@ D      | Do
     - _no execution, no consumption_
 
 ### 4. Control
-#### 4.1. Tools
+#### 4.1. Tools: Dimensions
 * tool#1: [Desktop app for Google Tasks][#1]
     - choose rediculous custom backgrounds and work at commiting them to memory (think of it in-day)
     - I am giving them **alphabetical names** to keep them in my head (A-I)
+    - There is something satisfactory about moving items from column to column
 * tool#2: **Google Calendar**
     - use week view to see the progress of the week
     - there is a feeling of teritorial conquest with this view, leaving no open tasks behind
@@ -95,7 +118,7 @@ D      | Do
 #### 4.2. Rules
 * time: 30 morning minutes + throughout the day
 * aim #1: the day is _planned == planted_ 
-* aim #2: the day ends with 0 with the help of four Ds
+* aim #2: the day ends with **today0** with the help of four Ds
 
 #### 4.3. Instructions
 1. go through categories in alphabetical order
