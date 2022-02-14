@@ -48,6 +48,7 @@ The aim of this commentary⭐ is to list 3 qualities of a daily plan: BIRME
 
 ### 4. M-inimal
 * Konmari's method of releasing most of the captures
+* Cal Newport's ideas from Digital Minimalism 
 
 ### 5. E-arnest
 * Paul Graham's idea of earnest endeavors
