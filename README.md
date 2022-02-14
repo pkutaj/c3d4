@@ -5,7 +5,7 @@
 ![Google Calendar Badge](https://img.shields.io/badge/Google%20Calendar-4285F4?logo=googlecalendar&logoColor=fff&style=flat)
 ![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)
 
-The concern is an ongoing documention of useful planning tactics
+The concern is an ongoing documention of useful planning tactics, dedicated to and based upon [Caw Newport's Core Idea: Time Management](https://www.youtube.com/watch?v=dOQpZlZuySE). The name is the acronym for 
 
 LETTER | MEANING
 -------|----------
@@ -17,12 +17,14 @@ D      | Delegate
 D      | Defer
 D      | Do
 
-* Tactical goal is to achieve Four Zeros:
+* Tactical goal is to achieve 4x0 — daily
 
 | COLLECTOR | DIMENSION |
 |-----------|-----------|
 | capture0  | past0     |
 | inbox0    | today0    |
+
+* The theory is created by Cal Newport's C3 Time Management technique
 
 ### Ingredients
 * [Taskboard - Desktop app for Google Tasks][#1]
@@ -35,7 +37,6 @@ D      | Do
 * 6$ / months
 * 15 minutes block / day  
 
-
 ### 1. BIRME: The Essential Qualities
 * [The Qualities of Planning](./assets/The-Qualities-of-Planning.md)
 * I dedicate 2x 15-minute rounds with Toggl and block this ~40 minutes daily to the
@@ -45,8 +46,7 @@ D      | Do
 ### 2. Capture
 #### 2.1. Tools: Collectors
 * tool #1: **Google tasks on Blackberry KEY2** and dedicated Captures bucket on the home screensync
-    ![](./assets/i
-    mg003051.png)
+    ![](./assets/img003051.png)
 * tool #2: [Full Screen for Google Tasks][#2]
 * tool #3: **Gmail** 
 
@@ -102,7 +102,9 @@ D      | Do
     - _no execution, no consumption_
 
 ### 4. Control
-#### 4.1. Tools: Dimensions
+* You categorize tasks with **Dimensions** — these are the perspectives that make your world, perspective that visualize and give meaning to the facts around you
+
+#### 4.1. Tools
 * tool#1: [Desktop app for Google Tasks][#1]
     - choose rediculous custom backgrounds and work at commiting them to memory (think of it in-day)
     - I am giving them **alphabetical names** to keep them in my head (A-I)
@@ -111,7 +113,6 @@ D      | Do
     - use week view to see the progress of the week
     - there is a feeling of teritorial conquest with this view, leaving no open tasks behind
     - have week plan
-
 
 #### 4.2. Rules
 * time: 30 morning minutes + throughout the day
@@ -123,6 +124,7 @@ D      | Do
 2. select ones for **today**
 3. either *do* or *defer* or *delegate*
 4. assign a time to the deferred ones
+5. look at the day in the calendar once again to make sure nothing essential is missed
 
 ### 5. Done
 * Done for the day
