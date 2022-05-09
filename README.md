@@ -122,7 +122,7 @@ D      | Do
 #### 4.3. Instructions
 1. go through categories in alphabetical order
 2. select ones for **today**
-3. either *do* or *defer* or *delegate*
+3. either *delete* or *do* or *defer* or *delegate*
 4. assign a time to the deferred ones
 5. look at the day in the calendar once again to make sure nothing essential is missed
 
