@@ -118,6 +118,12 @@ D      | Do
 * time: 30 morning minutes + throughout the day
 * aim #1: the day is _planned == planted_ 
 * aim #2: the day ends with **today0** with the help of four Ds
+* you end up with what I call _the set_ (of daily tasks)
+* the problem is that a mechanical approach without existential/psychological compatibility will sooner or later crumble
+* inspired by [Stutz (film)](https://en.wikipedia.org/wiki/Stutz_(film)), I came to realize that I sabotage _the set_ until I place _the set into the shadow_; 
+* I have to incorporate the desires of the part of me that I most despise 
+* for me it is an 8 year old codependent exhibitionist desiring admiration that most find extremely weird and laughable, but who loves to read and writing and learning and teaching
+* until it sees place for his current passion (programming, writing, study), I will self-sabotage a less attractive, but essential tasks I'm caling _the frogs_ (Mark Twain's _eat frogs_ idiom) 
 
 #### 4.3. Instructions
 1. go through categories in alphabetical order
